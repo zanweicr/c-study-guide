@@ -1,0 +1,6 @@
+﻿  宏定义.c
+  指针.c
+d:\c pratice\test_4_25\test_4_25\指针.c(13): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  d:\c pratice\test_4_25\test_4_25\指针.c(13): note: 请考虑在格式字符串中使用“%zd”
+  正在生成代码...
+  test_4_25.vcxproj -> D:\c pratice\test_4_25\x64\Debug\test_4_25.exe
