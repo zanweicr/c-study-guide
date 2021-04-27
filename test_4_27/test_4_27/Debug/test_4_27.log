@@ -1,0 +1,3 @@
+﻿  getchar.c
+c:\users\10452\source\repos\test_4_27\test_4_27\getchar.c(16): warning C4129: “N”: 不可识别的字符转义序列
+  test_4_27.vcxproj -> C:\Users\10452\source\repos\test_4_27\Debug\test_4_27.exe
